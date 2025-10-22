@@ -1,0 +1,14 @@
+/Prep Docs/
+*.jpeg
+
+
+# Ignore Quarto/Markdown preview artifacts
+PROJECT_PLAN.html
+PROJECT_PLAN_files/
+*.css
+*.js
+*.woff
+
+
+# macOS system files
+.DS_Store

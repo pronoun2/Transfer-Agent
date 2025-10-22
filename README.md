@@ -1,2 +1,2 @@
 # Football Transfer Analyst Agent
-An AI agent that analyses player peformances beyond just goals and assists
+A data-driven tool that uses machine learning and agentic AI to evaluate football player performance beyond goals and assists. Built with Python, XGBoost, BeautifulSoup, DuckDB, and Streamlit.
