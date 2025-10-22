@@ -1,6 +1,4 @@
 /Prep Docs/
-*.jpeg
-
 
 # Ignore Quarto/Markdown preview artifacts
 PROJECT_PLAN.html
