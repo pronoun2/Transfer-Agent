@@ -154,6 +154,6 @@ For this project to be considered complete, it needs to have met all the success
 
 ## Author Note
 
-This project attempts to bring together most of the technologies I have worked on and experimented with this year. The topic, despite being niche, was chosen given it's something that I'm passionate in and thus well-versed, especially in terms of the Florian Wirtz example. I'm hoping to prove the media wrong! 😁
+This project attempts to bring together most of the technologies I have worked on and experimented with this year. The topic, despite being niche, was chosen given it's something that I'm passionate in and thus well-versed, especially in terms of the Florian Wirtz example given I'm a Liverpool fan. I'm hoping to stop the Wirtz abuse! 😁
 
 ![Stop Florian Wirtz Abuse](images/florian.jpeg "florian.jpeg")
