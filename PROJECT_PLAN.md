@@ -110,7 +110,8 @@ This UI will allow a user to input a player of their choice and receive informat
  - Current rating
  - Predicted rating
  - Luck scores
- - Player comparisons 
+ - Player comparisons
+ - Current media sentiment (for comparison)
 
 Essentially this will give the user most of the information that the agents see in a well formatted way. 
 
